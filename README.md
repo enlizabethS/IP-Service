@@ -26,3 +26,6 @@ The application scans a range of IP addresses and displays all found domain name
 - **Apache Http Client:** Framework for handling web requests.
 - **Javalin:** Framework for developing the web interface.
 - **Maven:** Build automation and project management tool.
+
+  
+<img width="1434" alt="Scanner" src="https://github.com/enlizabethS/IP-Service/assets/122816750/dc0dd0ea-a30b-41a1-87de-b81de2f19d83">
